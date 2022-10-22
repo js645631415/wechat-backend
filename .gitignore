@@ -1,0 +1,35 @@
+### IntelliJ IDEA ###
+.idea/
+out/
+*.iml
+*.ipr
+*.iws
+*.ids
+
+### Maven ###
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### Gradle ###
+.gradle/
+gradle/
+build/
+classes/
+
+### Java ###
+*.class
+
+### CheckStyle ###
+.checkstyle/
+
+### PMD ###
+.pmd/
+
+### System Noise ###
+.DS_Store
+thumb.db
+
+### Project Noise ###
+apk/
+driver/
+logs/
